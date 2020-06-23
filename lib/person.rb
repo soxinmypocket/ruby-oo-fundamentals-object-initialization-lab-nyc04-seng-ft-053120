@@ -1,3 +1,3 @@
 class Person
-  @name= name
+  @name= Person.new
 end
